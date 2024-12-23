@@ -17,9 +17,13 @@ O programa gera uma imagem segmentada com os grãos classificados por cor e um r
 ---
 
 ## Estrutura do Projeto
-- **`main.py`**: Contém o código principal para processamento das imagens.
-- **`Imagens_questao1/`**: Pasta contendo as imagens a serem processadas.
-- **`relatorio.txt`**: Arquivo de saída gerado após o processamento, contendo os resultados.  
+├── **`README.MD`**: Contém a explicação e apresentação do projeto.
+├── **`main.py`**: Contém o código principal para processamento das imagens.
+├── **`Imagens_questao1/`**: Pasta contendo as imagens a serem processadas.
+   └── **`Imagens_segmentadas`**: Pasta contendo as imagens já processadas.
+├── **`relatorio.txt`**: Arquivo de saída gerado após o processamento, contendo os resultados.  
+├── **`requirements.txt`**: Arquivo contendo o requirementos das ferramentas utilizadas.  
+└── **`Nota.MD`**: Explicação, cronograma e notas dos passos para realizar o projeto.
 
 ---
 
