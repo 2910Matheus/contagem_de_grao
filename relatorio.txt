@@ -1,0 +1,75 @@
+img1.jpg:
+  Branco: 41 grãos, Área Média: 20622.26
+  Marrom: 189 grãos, Área Média: 723.19
+  Rosa: 53 grãos, Área Média: 2262.83
+
+img2.jpg:
+  Branco: 32 grãos, Área Média: 24088.61
+  Marrom: 189 grãos, Área Média: 752.63
+  Rosa: 53 grãos, Área Média: 2232.06
+
+img3.jpg:
+  Branco: 45 grãos, Área Média: 9444.64
+  Marrom: 70 grãos, Área Média: 1479.18
+  Rosa: 0 grãos, Área Média: 0.00
+
+img4.jpg:
+  Branco: 33 grãos, Área Média: 14166.20
+  Marrom: 73 grãos, Área Média: 1472.42
+  Rosa: 0 grãos, Área Média: 0.00
+
+img5.jpg:
+  Branco: 27 grãos, Área Média: 22091.89
+  Marrom: 97 grãos, Área Média: 1566.08
+  Rosa: 65 grãos, Área Média: 2425.36
+
+img6.jpg:
+  Branco: 32 grãos, Área Média: 17546.97
+  Marrom: 94 grãos, Área Média: 1727.65
+  Rosa: 48 grãos, Área Média: 3961.84
+
+img7.jpg:
+  Branco: 36 grãos, Área Média: 14905.75
+  Marrom: 103 grãos, Área Média: 1377.23
+  Rosa: 65 grãos, Área Média: 2474.47
+
+img8.jpg:
+  Branco: 15 grãos, Área Média: 37276.43
+  Marrom: 83 grãos, Área Média: 2166.30
+  Rosa: 0 grãos, Área Média: 0.00
+
+img9.jpg:
+  Branco: 17 grãos, Área Média: 33580.68
+  Marrom: 89 grãos, Área Média: 1678.93
+  Rosa: 44 grãos, Área Média: 4102.01
+
+img10.jpg:
+  Branco: 15 grãos, Área Média: 48739.10
+  Marrom: 96 grãos, Área Média: 1079.16
+  Rosa: 0 grãos, Área Média: 0.00
+
+img11.jpg:
+  Branco: 10 grãos, Área Média: 35194.30
+  Marrom: 34 grãos, Área Média: 868.79
+  Rosa: 23 grãos, Área Média: 11341.80
+
+img12.jpg:
+  Branco: 9 grãos, Área Média: 65239.94
+  Marrom: 91 grãos, Área Média: 947.43
+  Rosa: 0 grãos, Área Média: 0.00
+
+img13.jpg:
+  Branco: 0 grãos, Área Média: 0.00
+  Marrom: 0 grãos, Área Média: 0.00
+  Rosa: 0 grãos, Área Média: 0.00
+
+img14.jpg:
+  Branco: 18 grãos, Área Média: 18321.47
+  Marrom: 38 grãos, Área Média: 434.75
+  Rosa: 20 grãos, Área Média: 15997.02
+
+img15.jpg:
+  Branco: 36 grãos, Área Média: 14905.75
+  Marrom: 103 grãos, Área Média: 1377.23
+  Rosa: 65 grãos, Área Média: 2474.47
+
