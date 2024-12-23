@@ -15,9 +15,9 @@ O programa gera uma imagem segmentada com os grãos classificados por cor e um r
 - Relatório detalhado com a contagem e a área média dos grãos por cor.  
 
 ---
-```
-
 ## Estrutura do Projeto
+
+```
 ├── README.MD: Contém a explicação e apresentação do projeto.
 ├── main.py: Contém o código principal para processamento das imagens.
 ├── Imagens_questao1: Pasta contendo as imagens a serem processadas.
