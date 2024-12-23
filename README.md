@@ -61,3 +61,11 @@ Utilizando a pasta de imagens fornecida (anexa ao teste), desenvolva um programa
    image_folder = r"C:\\caminho\\para\\Imagens_questao1"
 4. **Execute o script principal: `python main.py`**
 
+# Tecnologias Utilizadas
+- `Python`
+- `OpenCV`
+- `Numpy`
+- `Gimp`
+
+
+
