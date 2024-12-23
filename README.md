@@ -6,18 +6,23 @@ Este projeto utiliza a biblioteca OpenCV para realizar a segmentação de grãos
 O programa gera uma imagem segmentada com os grãos classificados por cor e um relatório contendo os resultados da análise.  
 
 ---
-## Questão escolhida
+# Questão escolhida
 
-Questão 1: Segmentação e Contagem de Grãos por Cor (Visão Computacional OpenCV)
- ● Descrição do Problema:
- Utilizando a pasta de imagem fornecida (anexa ao teste), desenvolva um programa que faça a segmentação dos grãos com base em suas cores. O programa deve contar o número de grãos de cada cor (marrom, branco e rosa) e exibir os resultados.
- ● Requisitos Técnicos:
- ○ Utilize a biblioteca OpenCV para segmentação.
- ○ Oprogramadevegerar umaimagemsegmentada comosgrãos classificados por cor.
- ○ Ocódigodeveimprimir ou salvar um relatório com a contagem de grãos de cada cor.
- ● DesafiosAdicionais (Opcional): ○ Implemente umsistema para lidar com grãos sobrepostos ou parcialmente segmentados.
- ○ Calcule a área média dos grãos de cada cor.
+## Questão 1: Segmentação e Contagem de Grãos por Cor (Visão Computacional OpenCV)
 
+### Descrição do Problema
+Utilizando a pasta de imagens fornecida (anexa ao teste), desenvolva um programa que faça a segmentação dos grãos com base em suas cores. O programa deve contar o número de grãos de cada cor (marrom, branco e rosa) e exibir os resultados.
+
+### Requisitos Técnicos
+- Utilize a biblioteca **OpenCV** para segmentação.
+- O programa deve:
+  - Gerar uma imagem segmentada com os grãos classificados por cor.
+  - Imprimir ou salvar um relatório com a contagem de grãos de cada cor.
+
+### Desafios Adicionais (Opcional)
+- Implemente um sistema para lidar com grãos sobrepostos ou parcialmente segmentados.
+- Calcule a área média dos grãos de cada cor.
+- 
 ---
 
 ## Funcionalidades
@@ -54,3 +59,5 @@ Questão 1: Segmentação e Contagem de Grãos por Cor (Visão Computacional Ope
 3. **Edite o caminho para a pasta de imagens no arquivo `main.py`**, ajustando a variável `image_folder`:
    ```python
    image_folder = r"C:\\caminho\\para\\Imagens_questao1"
+4. **Execute o script principal: `python main,py`**
+
