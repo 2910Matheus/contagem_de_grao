@@ -1,7 +1,7 @@
 # Documentação do Processo Realizado para o Projeto
 
 ## Contexto do Projeto
-Este projeto foi desenvolvido como parte de um processo seletivo para uma vaga de estágio. O objetivo era segmentar grãos em imagens com base em suas cores (“marrom”, “branco” e “rosa”), realizar uma contagem de cada cor e gerar relatórios detalhados, utilizando ferramentas de visão computacional com a biblioteca OpenCV.
+Este projeto foi desenvolvido como parte de um processo seletivo para vaga de estágio da TCX visão computacional. O objetivo era segmentar grãos em imagens com base em suas cores (“marrom”, “branco” e “rosa”), realizar uma contagem de cada cor e gerar relatórios detalhados, utilizando ferramentas de visão computacional com a biblioteca OpenCV.
 
 O desafio também incluía a geração de imagens segmentadas com os grãos destacados, além de calcular a área média dos grãos de cada cor.
 
