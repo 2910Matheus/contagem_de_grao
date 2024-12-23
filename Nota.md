@@ -14,7 +14,8 @@ Recebi o projeto e comecei a me organizar. Li os requisitos do desafio e pesquis
 
 ### **Terça e Quarta-feira:**
 Realizei um curso na **Alura** para consolidar meu conhecimento sobre OpenCV e visão computacional. Este curso foi um dos poucos que aparentava agregar algo ao desafio, com ele obtive ideias e os fundamentos técnicos da biblioteca e aplicar.
-- **Curso realizado:** <img src="[(https://cursos.alura.com.br/user/matheusmaia2910/course/analise-classificacao-faces-visao-computacional-opencv/certificate)]" alt="Análise e Classificação de Faces: visão Computacional com OpenCV">.
+- **Curso realizado:** ![Certificado do Curso de Visão Computacional com OpenCV](https://cursos.alura.com.br/user/matheusmaia2910/course/analise-classificacao-faces-visao-computacional-opencv/certificate)
+
 
 ### **Quinta e Sexta-feira:**
 Assisti a vídeos-aula para complementar o aprendizado. Abaixo, os links das fontes utilizadas:
