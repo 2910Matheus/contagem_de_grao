@@ -59,5 +59,5 @@ Utilizando a pasta de imagens fornecida (anexa ao teste), desenvolva um programa
 3. **Edite o caminho para a pasta de imagens no arquivo `main.py`**, ajustando a variável `image_folder`:
    ```python
    image_folder = r"C:\\caminho\\para\\Imagens_questao1"
-4. **Execute o script principal: `python main,py`**
+4. **Execute o script principal: `python main.py`**
 
