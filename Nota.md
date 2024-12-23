@@ -90,6 +90,7 @@ O principal desafio foi a **detecção da cor branca**. Como o branco está muit
 - Tentar aperfeiçoar a imagem com filtros e ajustes na iluminação.
 
 Ao final através de algumas tentativas e erros resolvi adotar a seguinte técnica:
+
 Ajustar iterativamente os limites inferiores e superiores, além de aplicar filtros para reduzir interferências.
 A contagem ainda não se aproximou do resultado esperado, continuei com empecilho da cor, mas resolvi seguir com esse projeto até mesmo para futuros aprendizados, aonde eu com uma base mais profunda possa retornar e realizar o desafio de uma forma que consiga solucionar esse problema que enfrentei..
 
