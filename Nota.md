@@ -88,6 +88,7 @@ O principal desafio foi a **detecção da cor branca**. Como o branco está muit
 - Criar bordas nos objetos para tentar identificar eles já que geravam uma sombra.
 - Criar uma detecção para o fundo e até mesmo tentar alterar o tom de fundo.
 - Tentar aperfeiçoar a imagem com filtros e ajustes na iluminação.
+
 No final através de algumas tentativas e erro resolvi adotar a seguinte técnica, ajustando iterativamente os limites inferiores e superiores, além de aplicar filtros para reduzir interferências. A contagem ainda não se apróximou do resultado esperado, ainda continuei com empecilho da cor, mas resolvi seguir com esse projeto até mesmo para futuros aprendizados, eu conseguir retornar e realizar o desafio de uma forma que consiga solucionar esse problema que enfrentei.
 
 ---
