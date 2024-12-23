@@ -13,8 +13,8 @@ O desafio também incluía a geração de imagens segmentadas com os grãos dest
 Recebi o projeto e comecei a me organizar. Li os requisitos do desafio e pesquisei sobre as ferramentas principais necessárias para realização do trabalho.
 
 ### **Terça e Quarta-feira:**
-Realizei um curso na **Alura** para consolidar meu conhecimento sobre OpenCV e visão computacional. Este curso foi essencial para compreender os fundamentos técnicos da biblioteca e aplicá-los no desafio.
-- **Curso realizado:** Certificado em anexo.
+Realizei um curso na **Alura** para consolidar meu conhecimento sobre OpenCV e visão computacional. Este curso foi um dos poucos que aparentava agregar algo ao desafio, com ele obtive ideias e os fundamentos técnicos da biblioteca e aplicar.
+- **Curso realizado:** <img src="[URL_da_Imagem](https://cursos.alura.com.br/user/matheusmaia2910/course/analise-classificacao-faces-visao-computacional-opencv/certificate)" alt="Análise e Classificação de Faces: visão Computacional com OpenCV">.
 
 ### **Quinta e Sexta-feira:**
 Assisti a vídeos-aula para complementar o aprendizado. Abaixo, os links das fontes utilizadas:
