@@ -6,12 +6,10 @@ Este projeto utiliza a biblioteca OpenCV para realizar a segmentação de grãos
 O programa gera uma imagem segmentada com os grãos classificados por cor e um relatório contendo os resultados da análise.  
 
 ---
-# Questão escolhida
-
-## Questão 1: Segmentação e Contagem de Grãos por Cor (Visão Computacional OpenCV)
+# Questão 1: Segmentação e Contagem de Grãos por Cor (Visão Computacional OpenCV)
 
 ### Descrição do Problema
-Utilizando a pasta de imagens fornecida (anexa ao teste), desenvolva um programa que faça a segmentação dos grãos com base em suas cores. O programa deve contar o número de grãos de cada cor (marrom, branco e rosa) e exibir os resultados.
+Utilizando a pasta de imagens fornecida, desenvolva um programa que faça a segmentação dos grãos com base em suas cores. O programa deve contar o número de grãos de cada cor (marrom, branco e rosa) e exibir os resultados.
 
 ### Requisitos Técnicos
 - Utilize a biblioteca **OpenCV** para segmentação.
