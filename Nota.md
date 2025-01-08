@@ -1,16 +1,18 @@
 # Documentação do Processo Realizado para o Projeto
 
 ## Contexto do Projeto
-Este projeto foi desenvolvido como parte de um processo seletivo para vaga de estágio da TCX visão computacional. O objetivo era segmentar grãos em imagens com base em suas cores (“marrom”, “branco” e “rosa”), realizar uma contagem de cada cor e gerar relatórios detalhados, utilizando ferramentas de visão computacional com a biblioteca OpenCV.
+Este projeto foi desenvolvido como parte de aprendizado e pratica para o conhecimento da visão computacional com OPENCV. O objetivo era segmentar grãos em imagens com base em suas cores (“marrom”, “branco” e “rosa”), realizar uma contagem de cada cor e gerar relatórios detalhados, utilizando ferramentas de visão computacional com a biblioteca OpenCV.
 
 O desafio também incluía a geração de imagens segmentadas com os grãos destacados, além de calcular a área média dos grãos de cada cor.
+
+Resolvi fazer esse desafio com um prazo de uma semana, para me desafiar e estipular duração ao desafio.
 
 ---
 
 ## Linha do Tempo do Desenvolvimento
 
-### **Segunda-feira (16/12):**
-Recebi o projeto e comecei a me organizar. Li os requisitos do desafio e pesquisei sobre as ferramentas principais necessárias para realização do trabalho.
+### **Segunda-feira (16/12/24):**
+Comecei a me organizar. Li os requisitos do desafio e pesquisei sobre as ferramentas principais necessárias para realização do trabalho.
 
 ### **Terça e Quarta-feira:**
 Realizei um curso na **Alura** para consolidar meu conhecimento sobre OpenCV e visão computacional. Este curso foi um dos poucos que aparentava agregar algo ao desafio, com ele obtive ideias e os fundamentos técnicos da biblioteca e aplicar.
@@ -98,6 +100,4 @@ A contagem ainda não se aproximou do resultado esperado, continuei com empecilh
 
 ## Conclusão
 Este projeto foi uma excelente oportunidade para consolidar meus conhecimentos em visão computacional e boas práticas em desenvolvimento. A experiência não apenas me preparou melhor para desafios futuros na área, mas também reforçou minha organização e capacidade de aprendizado autônomo.
-
-Estou confiante de que a experiência adquirida será útil não apenas para este processo seletivo, mas também para minha carreira como desenvolvedor.
 
